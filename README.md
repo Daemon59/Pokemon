@@ -22,6 +22,6 @@ Excel (VLOOKUP, charts, dashboard)
 MySQL 
 
 # Excel Dashboard
-![image alt](https://github.com/Daemon59/Pokemon/blob/4bad8063ccbdcc072e21714ecdb6d19d3d078cbf/Screenshot%202025-05-13%20132127.png)
+![image alt](https://github.com/Daemon59/Pokemon/blob/efe90b93e430c1e08388698d30870ca7906b1979/Screenshot%202025-05-13%20172139.png)
 
 You can download Excel file here [Pokemon.xlsx](https://github.com/Daemon59/Pokemon/blob/4bad8063ccbdcc072e21714ecdb6d19d3d078cbf/Pokemon%20.xlsx)
