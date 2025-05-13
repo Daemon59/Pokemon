@@ -19,6 +19,7 @@ There are around 800 Pokemon records
 
 # Tools Used
 Excel (VLOOKUP, charts, dashboard)
+
 MySQL 
 
 # Excel Dashboard
